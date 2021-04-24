@@ -5,4 +5,4 @@ HELIOS Discord Bot
 HELIOS is a Discord Bot is an add-on that is designed to make the Discord Application a better learning environment.
 
  
-Final Project for Programming, Logic, and Design Course
+Final Project for Programming, Logic, and Design Course 02-09-21
