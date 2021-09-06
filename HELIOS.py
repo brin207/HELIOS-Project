@@ -15,7 +15,7 @@ def get_prefix(client, message):
     return prefixes[guildID]
 
 
-TOKEN = "ODAxMzY0MDY2NzUyOTIxNjIw.YAfmcg.gUDNV2D9ioyquaUt1BqnwBwFxao" # Unique token for HELIOS bot, functions like an email and password for a Bot
+TOKEN =  # Unique token for HELIOS bot, functions like an email and password for a Bot
 intents = discord.Intents(messages = True, guilds = True, members = True, reactions = True) # Stores additional perms in intents variable
 client = commands.Bot(command_prefix = get_prefix, intents = intents) # sets the command prefix and intents perms for the bot 
 greetings = ['Hello', 'hello', 'Hi'] # list for the words that HELIOS will respond to.
